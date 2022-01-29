@@ -1,0 +1,2 @@
+//As in an a smartphone, there are some apps, which are inbuilt with it, but really it is not possible to include wide variety of apps in one software pre installed, So there is a thing called 'node package manager', which is like playstore for node js, i.e. we can install 'external modules' of node js as per our requirement.
+//With NPM we can download libraries of javascript
